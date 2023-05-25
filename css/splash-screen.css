@@ -786,7 +786,7 @@
   opacity: 1;
   position: absolute;
   top: 24px;
-  width: 1521px;
+  width: 1620px;
 }
 
 .shop-confections .shop-GrUhyp {
@@ -800,7 +800,7 @@
   font-style: normal;
   font-weight: 500;
   height: auto;
-  left: 694px;
+  left: 742px;
   letter-spacing: 5.40px;
   line-height: normal;
   mix-blend-mode: normal;
@@ -829,7 +829,7 @@
   font-style: normal;
   font-weight: 500;
   height: auto;
-  left: 1216px;
+  left: 1264px;
   letter-spacing: 5.40px;
   line-height: normal;
   mix-blend-mode: normal;
@@ -858,7 +858,7 @@
   font-style: normal;
   font-weight: 500;
   height: auto;
-  left: 1052px;
+  left: 1100px;
   letter-spacing: 5.40px;
   line-height: normal;
   mix-blend-mode: normal;
@@ -887,7 +887,7 @@
   font-style: normal;
   font-weight: 500;
   height: auto;
-  left: 820px;
+  left: 868px;
   letter-spacing: 5.40px;
   line-height: normal;
   mix-blend-mode: normal;
@@ -909,7 +909,7 @@
   --z-index: 4;
   background-color: transparent;
   height: 33px;
-  left: 1395px;
+  left: 1443px;
   opacity: 1;
   position: absolute;
   top: 129px;
@@ -956,12 +956,14 @@
   transform: scale(1.1);
 }
 
+
+
 .shop-confections .group-256-GrUhyp {
   --z-index: 5;
   background-color: transparent;
   cursor: pointer;
   height: 213px;
-  left: 53px;
+  left: -20px;
   opacity: 1;
   position: absolute;
   top: 42px;
@@ -3847,12 +3849,12 @@
   background-image: url(../img/image-140@2x.png);
   background-size: 100% 100%;
   height: 422px;
-  left: 376px;
+  left: 367px;
   mix-blend-mode: normal;
   object-fit: cover;
   opacity: 1;
   position: absolute;
-  top: 1121px;
+  top: 941px;
   width: 346px;
 }
 
@@ -3902,10 +3904,10 @@
   background-image: url(../img/who-we-are--back.png);
   background-size: 100% 100%;
   height: 149px;
-  left: 230px;
+  left: 266px;
   opacity: 1;
   position: absolute;
-  top: 1001px;
+  top: 816px;
   width: 613px;
 }
 
@@ -3917,7 +3919,7 @@
   opacity: 1;
   position: absolute;
   top: 24px;
-  width: 1521px;
+  width: 1620px;
 }
 
 .homepage .shop-GrUhyp {
@@ -3931,7 +3933,7 @@
   font-style: normal;
   font-weight: 500;
   height: auto;
-  left: 694px;
+  left: 742px;
   letter-spacing: 5.40px;
   line-height: normal;
   mix-blend-mode: normal;
@@ -3960,7 +3962,7 @@
   font-style: normal;
   font-weight: 500;
   height: auto;
-  left: 1216px;
+  left: 1264px;
   letter-spacing: 5.40px;
   line-height: normal;
   mix-blend-mode: normal;
@@ -3989,7 +3991,7 @@
   font-style: normal;
   font-weight: 500;
   height: auto;
-  left: 1052px;
+  left: 1100px;
   letter-spacing: 5.40px;
   line-height: normal;
   mix-blend-mode: normal;
@@ -4018,7 +4020,7 @@
   font-style: normal;
   font-weight: 500;
   height: auto;
-  left: 820px;
+  left: 868px;
   letter-spacing: 5.40px;
   line-height: normal;
   mix-blend-mode: normal;
@@ -4040,7 +4042,7 @@
   --z-index: 4;
   background-color: transparent;
   height: 33px;
-  left: 1395px;
+  left: 1443px;
   opacity: 1;
   position: absolute;
   top: 129px;
@@ -4091,7 +4093,7 @@
   --z-index: 5;
   background-color: transparent;
   height: 213px;
-  left: 53px;
+  left: -20px;
   opacity: 1;
   position: absolute;
   top: 42px;
@@ -4728,12 +4730,12 @@
   background-image: url(../img/giphy-1.gif);
   background-size: 100% 100%;
   height: 389px;
-  left: 670px;
+  left: 673px;
   mix-blend-mode: normal;
   object-fit: cover;
   opacity: 1;
   position: absolute;
-  top: 448px;
+  top: 858px;
   width: 389px;
 }
 
@@ -4748,7 +4750,7 @@
   object-fit: cover;
   opacity: 1;
   position: absolute;
-  top: 279px;
+  top: 517px;
   width: 295px;
 }
 
@@ -4760,17 +4762,17 @@
   flex-direction: column;
   gap: 2px;
   height: 360px;
-  left: 82px;
+  left: 111px;
   opacity: 1;
   position: absolute;
-  top: 607px;
+  top: 287px;
   width: 896px;
 }
 
 .homepage .text0-7yn1GD {
   --z-index: 0;
   background-color: transparent;
-  color: #290404;
+  color: #002a4e;
   font-family: 'Domaine Display-Bold', Helvetica;
   font-size: 86px;
   font-style: normal;
@@ -4792,7 +4794,7 @@
 .homepage .text1-7yn1GD {
   --z-index: 1;
   background-color: transparent;
-  color: #290404;
+  color: #002a4e;
   font-family: 'Domaine Display-Bold', Helvetica;
   font-size: 86px;
   font-style: normal;
@@ -4814,7 +4816,7 @@
 .homepage .text2-7yn1GD {
   --z-index: 2;
   background-color: transparent;
-  color: #290404;
+  color: #002a4e;
   font-family: 'Domaine Display-Bold', Helvetica;
   font-size: 86px;
   font-style: normal;
@@ -4838,14 +4840,14 @@
   background-color: transparent;
   background-image: url(../img/image-139@2x.png);
   background-size: 100% 100%;
-  height: 337px;
-  left: 722px;
+  height: 384px;
+  left: 670px;
   mix-blend-mode: normal;
   object-fit: cover;
   opacity: 1;
   position: absolute;
-  top: 1221px;
-  width: 374px;
+  top: 1174px;
+  width: 426px;
 }
 
 .homepage .frame-86-C61RwL {
@@ -5157,12 +5159,12 @@
 .homepage .best-sellers-ngE2AU {
   --z-index: 2;
   background-color: transparent;
-  height: 39px;
-  left: 261px;
+  height: 37px;
+  left: 310px;
   opacity: 1;
   position: absolute;
   top: 515px;
-  width: 92px;
+  width: 43px;
 }
 
 .homepage .group-173-iBonJ5 {
@@ -5170,10 +5172,10 @@
   background-color: transparent;
   cursor: pointer;
   height: 37px;
-  left: 49px;
+  left: 0px;
   opacity: 1;
   pointer-events: auto;
-  position: absolute;
+  position: relative;
   top: 0px;
   transition: all 0.2s ease;
   width: 43px;
@@ -5221,27 +5223,6 @@
   position: absolute;
   top: 29px;
   width: 8px;
-}
-
-.homepage .icon-heart-iBonJ5 {
-  --z-index: 1;
-  background-color: transparent;
-  background-image: url(../img/heart@2x.png);
-  background-size: 100% 100%;
-  cursor: pointer;
-  height: 39px;
-  left: 0px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  pointer-events: auto;
-  position: absolute;
-  top: -0px;
-  transition: all 0.2s ease;
-  width: 41px;
-}
-
-.homepage .icon-heart-iBonJ5:hover {
-  transform: scale(1.1);
 }
 
 .homepage .lorem-ipsum-dolor-si-ngE2AU {
@@ -5359,17 +5340,38 @@
   width: auto;
 }
 
+.homepage .icon-heart-ngE2AU {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/heart@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 39px;
+  left: 263px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  top: 515px;
+  transition: all 0.2s ease;
+  width: 41px;
+}
+
+.homepage .icon-heart-ngE2AU:hover {
+  transform: scale(1.1);
+}
+
 .homepage .who-we-are-front-C61RwL {
   --z-index: 12;
   background-color: transparent;
   box-shadow: 0px 6.210526466369629px 15.526315689086914px #00000040;
   cursor: pointer;
   height: 118px;
-  left: 246px;
+  left: 282px;
   opacity: 1;
   pointer-events: auto;
   position: absolute;
-  top: 1010px;
+  top: 825px;
   transition: all 0.2s ease;
   width: 582px;
 }
@@ -5424,8 +5426,8 @@
   object-fit: cover;
   opacity: 1;
   position: absolute;
-  top: 899px;
-  width: 421px;
+  top: 239px;
+  width: 376px;
 }
 
 .homepage .footer-C61RwL {
@@ -5929,38 +5931,8 @@
   width: 362px;
 }
 
-.homepage .frame-125-C61RwL {
-  --z-index: 20;
-  background-color: #ffffff;
-  border-radius: 450px;
-  box-shadow: 0px 4px 20px #00000040;
-  height: 775px;
-  left: 917px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  overflow: hidden;
-  position: absolute;
-  top: 433px;
-  width: 809px;
-}
-
-.homepage .ezgif-6-ykdW3M {
-  --z-index: 0;
-  background-color: transparent;
-  background-image: url(../img/ezgif-6.gif);
-  background-size: 100% 100%;
-  height: 775px;
-  left: 0px;
-  mix-blend-mode: normal;
-  object-fit: cover;
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  width: 809px;
-}
-
 .homepage .frame-87-C61RwL {
-  --z-index: 21;
+  --z-index: 20;
   background-color: #ffffff;
   border: 2px solid;
   border-color: #002a4e;
@@ -6210,7 +6182,7 @@
 }
 
 .homepage .frame-88-C61RwL {
-  --z-index: 22;
+  --z-index: 21;
   background-color: #ffffff;
   border: 2px solid;
   border-color: #002a4e;
@@ -6460,7 +6432,7 @@
 }
 
 .homepage .frame-89-C61RwL {
-  --z-index: 23;
+  --z-index: 22;
   background-color: #ffffff;
   border: 2px solid;
   border-color: #002a4e;
@@ -6710,7 +6682,7 @@
 }
 
 .homepage .frame-90-C61RwL {
-  --z-index: 24;
+  --z-index: 23;
   background-color: #ffffff;
   border: 2px solid;
   border-color: #002a4e;
@@ -6957,6 +6929,63 @@
 
 .homepage .icon-heart-vo1VF3:hover {
   transform: scale(1.1);
+}
+
+.homepage .ellipse-126-C61RwL {
+  --z-index: 24;
+  background-color: #ffffff;
+  border-radius: 397px;
+  height: 794px;
+  left: 904px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  width: 794px;
+}
+
+.homepage .frame-125-C61RwL {
+  --z-index: 25;
+  background-color: #ffffff;
+  border-radius: 412.11px;
+  box-shadow: 0px 3.6632065773010254px 18.31603240966797px #00000040;
+  height: 710px;
+  left: 931px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 470px;
+  width: 741px;
+}
+
+.homepage .ezgif-6-ykdW3M {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/ezgif-6.gif);
+  background-size: 100% 100%;
+  height: 710px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 741px;
+}
+
+.homepage .ellipse-127-C61RwL {
+  --z-index: 26;
+  background-color: transparent;
+  border: 10px solid;
+  border-color: #290404;
+  border-radius: 379px/365px;
+  height: 730px;
+  left: 924px;
+  opacity: 1;
+  position: absolute;
+  top: 461px;
+  width: 758px;
 }
 /* screen - splash-screen */
 
